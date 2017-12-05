@@ -12,8 +12,16 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_gallery_item.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_text.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_view_pager.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_view_pager.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -28,8 +36,20 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_view_pager_has_text.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\swipeback_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\swipeback_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_toast_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_toast_layout.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -48,12 +68,44 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\select_wheel_date.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\toast_error_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_view_pager_has_text.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_view_pager_has_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\indicator_layout.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\indicator_layout.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_view_pager_has_text.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_view_pager_has_text.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slider_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical_custom.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical_custom.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\toast_correct_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_correct_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -72,36 +124,64 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_wheel_date_time.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\select_wheel_date_time.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_title_bar.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_title_bar.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_toast_error_layout.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_toast_error_layout.xml"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\toast_correct_layout.xml",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_correct_layout.xml"
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\toast_correct_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_correct_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_hud.xml",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_hud.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_hud.xml",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_hud.xml"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_toast_layout.xml",
@@ -112,8 +192,20 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\show_bottom_dialog.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\toast_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_layout.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -126,6 +218,10 @@
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_title_bar.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_bottom_bar.xml",
@@ -164,6 +260,14 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical_custom.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -200,12 +304,32 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\footview_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\footview_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_toast_error_layout.xml",
@@ -216,12 +340,24 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\slider_layout.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_wheel_date.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\select_wheel_date.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_title_bar.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\indicator_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\indicator_layout.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\image_picker.xml",
@@ -232,12 +368,24 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_default.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_default.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_view_pager.xml",
@@ -260,6 +408,10 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\footview_layout.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_wheel_date_time.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\select_wheel_date_time.xml"
     },
@@ -272,8 +424,16 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
@@ -282,6 +442,14 @@
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\custom_toast_error_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\custom_toast_error_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_text.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_text.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
@@ -316,8 +484,20 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\toast_layout.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\image_picker.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\image_picker.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\show_bottom_dialog.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\show_bottom_dialog.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -344,8 +524,16 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_hud.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_hud.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
@@ -362,6 +550,14 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\progress_hud.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\progress_hud.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -404,6 +600,10 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_default.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\render_type_default.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_template_lines.xml"
     },
@@ -424,8 +624,16 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -448,6 +656,10 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_simple_dropdown_hint.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
@@ -460,12 +672,36 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_bottom_bar.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_wheel_date_time.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\select_wheel_date_time.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_gallery_item.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_gallery_item.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\picker_bottom_bar.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\picker_bottom_bar.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\swipeback_layout.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\swipeback_layout.xml"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
@@ -474,6 +710,10 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\render_type_default.xml",
@@ -486,5 +726,9 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     }
 ]

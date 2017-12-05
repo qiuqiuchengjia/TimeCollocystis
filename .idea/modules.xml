@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NetEaseMusic.iml" filepath="$PROJECT_DIR$/NetEaseMusic.iml" />
       <module fileurl="file://D:\Work\TimeCollocystis\NetEaseMusic\NetEaseMusic.iml" filepath="D:\Work\TimeCollocystis\NetEaseMusic\NetEaseMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeCollocystis.iml" filepath="$PROJECT_DIR$/TimeCollocystis.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\Work\TimeCollocystis\NetEaseMusic\app\app.iml" filepath="D:\Work\TimeCollocystis\NetEaseMusic\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/frameworkLibrary/frameworkLibrary.iml" filepath="$PROJECT_DIR$/frameworkLibrary/frameworkLibrary.iml" />

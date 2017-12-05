@@ -4,12 +4,20 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_collapse_small_holo_light.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_delete.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_delete.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_expand_small_holo_light.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_expand_small_holo_light.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\failed.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\failed.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_right.png",
@@ -20,6 +28,14 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkmark.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkmark.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_unselected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_unselected_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png"
     },
@@ -28,20 +44,32 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_background.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\loading_big_bg.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\loading_big_bg.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
     },
     {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\loading_big_bg.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\loading_big_bg.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_expand_large_holo_light.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_expand_large_holo_light.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_focused_holo.9.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_unselected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_holo.9.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
@@ -54,6 +82,10 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_holo.9.png",
@@ -72,12 +104,16 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_holo.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkmark.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkmark.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_focused.9.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_right.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_right.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pick_view_pager_has_text_bg.png",
@@ -92,12 +128,20 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_while_bg.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_disable.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_disable.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_focused_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_unselected_holo.9.png",
@@ -120,8 +164,28 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_selected.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_expand_small_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_expand_small_holo_light.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_selected.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_selected.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_bar.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_bar.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_normal.9.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_focused_holo.9.png",
@@ -144,8 +208,16 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_collapse_large_holo_light.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_holo.9.png",
@@ -156,12 +228,32 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_normal.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\no_media.jpg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\no_media.jpg"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_selected.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_selected.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_expand_large_holo_light.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_expand_large_holo_light.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_left.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pick_view_pager_has_text_bg.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pick_view_pager_has_text_bg.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_background.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_background.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_focused_holo.9.png",
@@ -184,12 +276,24 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_focused_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_normal.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_delete.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_left.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_left.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
@@ -224,6 +328,10 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_holo.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_expand_large_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_expand_large_holo_light.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\take_photo.jpg",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\take_photo.jpg"
     },
@@ -238,6 +346,10 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_pressed_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\met_ic_clear.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\met_ic_clear.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_focused_holo.9.png",
@@ -260,6 +372,14 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_up.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\errormark.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\errormark.png"
     },
@@ -268,8 +388,20 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_holo.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_unselected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_focused_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\met_ic_clear.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\met_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
@@ -308,8 +440,20 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\no_media.jpg"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\loading_big_bg.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\loading_big_bg.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_act_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_unselected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_unselected_focused_holo.9.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_unselected_pressed_holo.9.png",
@@ -320,12 +464,28 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_focused.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\errormark.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\errormark.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pick_view_pager_has_text_bg.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pick_view_pager_has_text_bg.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_unselected_pressed_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_collapse_large_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_collapse_large_holo_light.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
@@ -334,6 +494,14 @@
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_normal.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_normal.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_holo.9.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
@@ -348,12 +516,28 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\com_ttshrk_view_scroll_picker_bar.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_unselected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_pressed_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_bottom.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkbox_selected.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_selected.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\checkbox_up.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\checkbox_up.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_delete.png",
@@ -362,6 +546,14 @@
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_unselected_pressed_holo.9.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_selected_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_selected_holo.9.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_focused_holo.9.png",
@@ -378,6 +570,10 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_r_unselected_pressed_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_r_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_while_bg.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_while_bg.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_normal.png",
@@ -420,6 +616,18 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_unselected_focused_holo.9.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_unselected_pressed_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_green_selected_holo.9.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_green_selected_holo.9.png"
     },
@@ -452,6 +660,14 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\take_photo.jpg"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_back_normal.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_back_normal.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\met_ic_clear.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\met_ic_clear.png"
     },
@@ -462,5 +678,21 @@
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\no_media.jpg",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\no_media.jpg"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\vpi__tab_white_selected_focused_holo.9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\vpi__tab_white_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\take_photo.jpg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\take_photo.jpg"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_collapse_small_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_collapse_small_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\shadow_bottom.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\shadow_bottom.png"
     }
 ]

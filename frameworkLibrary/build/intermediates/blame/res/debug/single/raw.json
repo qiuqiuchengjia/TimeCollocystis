@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_pentagon.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_pentagon.svg"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_star.svg"
     },
@@ -16,12 +20,24 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_octogon.svg"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_heart.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_heart.svg"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_star.svg"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_octogon.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_octogon.svg"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_hexagon.svg",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_hexagon.svg"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_star.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_star.svg"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_octogon.svg",
@@ -40,8 +56,16 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_pentagon.svg"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_hexagon.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_hexagon.svg"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_diamond.svg",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\res\\raw\\imgview_diamond.svg"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_diamond.svg",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\raw\\imgview_diamond.svg"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\debug\\raw\\imgview_heart.svg",

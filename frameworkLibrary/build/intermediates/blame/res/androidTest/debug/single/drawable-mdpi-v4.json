@@ -4,6 +4,10 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_6.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_4.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_4.png"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_1.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_1.png"
     },
@@ -16,48 +20,48 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_8.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_4.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_4.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_3.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_3.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_7.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_7.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
-    },
-    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_2.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_2.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_0.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_0.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_4.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_4.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_2.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_2.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_5.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_5.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_11.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_11.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\custom_toast_bg.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\custom_toast_bg.xml"
+    },
+    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_9.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_9.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_6.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_6.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_10.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_10.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_3.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_3.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_9.png",
@@ -68,64 +72,28 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_6.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_0.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_0.png"
-    },
-    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_10.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_10.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_10.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_10.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_6.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_6.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_3.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_3.png"
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_0.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_0.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_0.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_0.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_6.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_6.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_8.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_8.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_3.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_3.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_0.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_0.png"
-    },
-    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_3.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_3.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_1.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_1.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_large_holo_light.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_large_holo_light.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_1.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_1.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png",
@@ -148,20 +116,20 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_8.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_8.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_7.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_7.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_11.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_11.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_2.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_2.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_9.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_9.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_10.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_10.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_4.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_4.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_6.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_6.png"
     },
     {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_7.png",
@@ -172,76 +140,32 @@
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_1.png"
     },
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_0.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_0.png"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_11.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_11.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_9.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_9.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_8.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_8.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_5.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_5.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_3.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_3.png"
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_11.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_11.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_10.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_10.png"
-    },
-    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_2.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_2.png"
     },
     {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_large_holo_light.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_large_holo_light.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_1.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_1.png"
-    },
-    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_8.png",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_8.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_5.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_5.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\custom_toast_bg.xml",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\custom_toast_bg.xml"
-    },
-    {
-        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_2.png",
-        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_2.png"
-    },
-    {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_7.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_7.png"
     },
     {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png",
@@ -256,11 +180,219 @@
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_7.png"
     },
     {
-        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_4.png",
-        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_4.png"
-    },
-    {
         "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_small_holo_light.png",
         "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_small_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_4.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_4.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_small_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_small_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_0.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_0.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_11.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_11.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_2.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_2.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_9.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_large_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_10.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_10.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_0.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_0.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_9.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_9.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_10.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_10.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_6.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_6.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_3.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_3.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_6.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_6.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_8.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_8.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_3.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_3.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_0.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_0.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_1.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_1.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_large_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_large_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_10.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_10.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_11.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_11.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_8.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_8.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_11.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_11.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_9.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_9.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_7.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_7.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_4.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_4.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_1.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_1.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_5.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_5.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_9.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_9.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_collapse_small_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_3.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_3.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_large_holo_light.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_large_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_10.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_10.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_8.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_8.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_expand_large_holo_light.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_expand_large_holo_light.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_2.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_2.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_5.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_5.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_1.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_1.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_11.png",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_11.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_5.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_5.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\custom_toast_bg.xml",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\custom_toast_bg.xml"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_7.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_7.png"
+    },
+    {
+        "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\pull_spinner_2.png",
+        "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\pull_spinner_2.png"
+    },
+    {
+        "merged": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\spinner_4.png",
+        "source": "D:\\Work\\TimeCollocystis\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\spinner_4.png"
     }
 ]

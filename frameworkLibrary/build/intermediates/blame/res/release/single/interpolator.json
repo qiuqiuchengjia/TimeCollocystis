@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\build\\intermediates\\res\\merged\\release\\interpolator\\accelerate_quint.xml",
+        "source": "D:\\Work\\TimeCollocystis\\TimeCollocystis\\frameworkLibrary\\res\\interpolator\\accelerate_quint.xml"
+    },
+    {
         "merged": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\build\\intermediates\\res\\merged\\release\\interpolator\\accelerate_quint.xml",
         "source": "D:\\Work\\Android\\NetEaseMusic\\frameworkLibrary\\res\\interpolator\\accelerate_quint.xml"
     },
