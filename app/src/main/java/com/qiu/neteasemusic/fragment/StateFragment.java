@@ -3,6 +3,7 @@ package com.qiu.neteasemusic.fragment;
 import android.view.View;
 
 import com.qiu.neteasemusic.Base.AbstractBaseFragment;
+import com.qiu.neteasemusic.Interface.ToolbarTitleInteface;
 import com.qiu.neteasemusic.R;
 
 /**
@@ -10,7 +11,7 @@ import com.qiu.neteasemusic.R;
  * 动态
  */
 
-public class StateFragment extends AbstractBaseFragment {
+public class StateFragment extends AbstractBaseFragment  implements ToolbarTitleInteface {
     @Override
     protected int getLayoutResId() {
         return R.layout.fragment_state;
@@ -24,5 +25,10 @@ public class StateFragment extends AbstractBaseFragment {
     @Override
     protected void initData() {
 
+    }
+
+    @Override
+    public String getToolbarTitle() {
+        return "state";
     }
 }

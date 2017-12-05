@@ -3,6 +3,7 @@ package com.qiu.neteasemusic.fragment;
 import android.view.View;
 
 import com.qiu.neteasemusic.Base.AbstractBaseFragment;
+import com.qiu.neteasemusic.Interface.ToolbarTitleInteface;
 import com.qiu.neteasemusic.R;
 
 /**
@@ -10,7 +11,7 @@ import com.qiu.neteasemusic.R;
  * 我的
  */
 
-public class MyMainFragment  extends AbstractBaseFragment {
+public class MyMainFragment  extends AbstractBaseFragment  implements ToolbarTitleInteface {
 
     @Override
     protected int getLayoutResId() {
@@ -23,5 +24,11 @@ public class MyMainFragment  extends AbstractBaseFragment {
 
     @Override
     protected void initData() {
+    }
+
+
+    @Override
+    public String getToolbarTitle() {
+        return "main";
     }
 }

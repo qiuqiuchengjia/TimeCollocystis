@@ -18,6 +18,7 @@ import android.widget.TextView;
 
 import com.framework.greendroid.widget.MyFragmentTabHost;
 import com.qiu.neteasemusic.Base.BaseToolbarActivity;
+import com.qiu.neteasemusic.Interface.ToolbarTitleInteface;
 import com.qiu.neteasemusic.Utils.ToastUtil;
 import com.qiu.neteasemusic.fragment.FindFragment;
 import com.qiu.neteasemusic.fragment.MyMainFragment;
@@ -42,7 +43,13 @@ public class MainActivity extends BaseToolbarActivity
         mLinearLayout_richeng = (LinearLayout) findViewById(R.id.ll_richeng);
         mLinearLayout_create = (LinearLayout) findViewById(R.id.ll_create);
         mLinearLayout_work = (LinearLayout) findViewById(R.id.ll_work);
-
+        mTabHost = initFragment(this, findViewById(R.id.parent_id),
+                getSupportFragmentManager(),
+                new MyFragmentTabHost.OnFragmentChangedListener() {
+                    @Override
+                    public void onChanaged(Fragment fragments) {
+                    }
+                });
         setToolbarHide(false);
         setStatusBarHide(false);
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -53,13 +60,7 @@ public class MainActivity extends BaseToolbarActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        mTabHost = initFragment(this, findViewById(R.id.parent_id),
-                getSupportFragmentManager(),
-                new MyFragmentTabHost.OnFragmentChangedListener() {
-                    @Override
-                    public void onChanaged(Fragment fragments) {
-                    }
-                });
+
         addCustomTab(this, "首页", "MyMainFragment", 0,
                 MyMainFragment.class, mTabHost);
         addCustomTab(this, "活动", "FindFragment",0,
@@ -69,6 +70,7 @@ public class MainActivity extends BaseToolbarActivity
         mTabHost.setOnTabChangedListener(this);
         curFragmentFlag=0;
         initTabClick();
+        setToolbarHide(true);
     }
 
     private void initTabClick() {
@@ -90,7 +92,7 @@ public class MainActivity extends BaseToolbarActivity
             @Override
             public void onClick(View view) {
                 mTabHost.setCurrentTab(2);
-                curFragmentFlag=2;
+                curFragmentFlag=1;
             }
         });
     }
@@ -101,7 +103,8 @@ public class MainActivity extends BaseToolbarActivity
 
     @Override
     protected String getToolbarTitle() {
-        return getResources().getString(R.string.text_find);
+        //mTabHost.getCurFragment();
+        return "ds";
     }
 
     @Override
@@ -214,6 +217,7 @@ public class MainActivity extends BaseToolbarActivity
 
     @Override
     public void onTabChanged(String tabId) {
-
+        ToolbarTitleInteface toolbarTitleInteface = (ToolbarTitleInteface) mTabHost.getCurFragment();
+        setToolbarTitle(toolbarTitleInteface.getToolbarTitle());
     }
 }

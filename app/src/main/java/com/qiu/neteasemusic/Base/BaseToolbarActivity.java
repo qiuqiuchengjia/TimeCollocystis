@@ -50,7 +50,12 @@ public abstract class BaseToolbarActivity extends AppCompatActivity{
             }
         });
     }
-
+    /**
+     * 设置toolbar标题
+     * */
+    public void setToolbarTitle(String title){
+        mTitle.setText(title);
+    }
     /**
      * 是否显示返回键
      *
