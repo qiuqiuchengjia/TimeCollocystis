@@ -105,16 +105,6 @@ public class MainActivity extends BaseToolbarActivity
     }
 
     @Override
-    protected String getToolbarLeftTitle() {
-        return getResources().getString(R.string.text_my);
-    }
-
-    @Override
-    protected String getToolbarRightTitle() {
-        return getResources().getString(R.string.text_state);
-    }
-
-    @Override
     public void onBackPressed() {
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
@@ -183,19 +173,6 @@ public class MainActivity extends BaseToolbarActivity
         return false;
     }
 
-    @Override
-    protected void clickTitle(int id) {
-        if(id==1){//我的
-            mTabHost.setCurrentTab(0);
-            curFragmentFlag=0;
-        }else if(id==2){//发现
-            mTabHost.setCurrentTab(1);
-            curFragmentFlag=1;
-        }else if(id==3){//动态
-            mTabHost.setCurrentTab(2);
-            curFragmentFlag=1;
-        }
-    }
     /**
      * @param mContext
      * @param parentView

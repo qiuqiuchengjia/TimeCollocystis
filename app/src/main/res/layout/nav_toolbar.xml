@@ -13,39 +13,15 @@
         app:popupTheme="@style/AppTheme.PopupOverlay" >
         <TextView
             android:padding="@dimen/global_padding_5"
-            android:id="@+id/nav_toolbar_title_left"
+            android:id="@+id/tv_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"
             android:text=""
-            android:layout_marginRight="@dimen/global_margin_20"
             android:layout_gravity="center"
             android:textColor="@color/text_color_white_FFFFFF"
             android:textSize="@dimen/global_textview_size_18" />
-        <TextView
-            android:padding="@dimen/global_padding_5"
-            android:id="@+id/nav_toolbar_title"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:layout_marginRight="@dimen/global_margin_20"
-            android:text="11"
-            android:layout_gravity="center"
-            android:textColor="@color/text_color_white_99FFFFFF"
-            android:textSize="@dimen/global_textview_size_16" />
-        <TextView
-            android:padding="@dimen/global_padding_5"
-            android:id="@+id/nav_toolbar_title_right"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:text=""
-            android:layout_gravity="center"
-            android:textColor="@color/text_color_white_99FFFFFF"
-            android:textSize="@dimen/global_textview_size_16" />
 
 
     </android.support.v7.widget.Toolbar>

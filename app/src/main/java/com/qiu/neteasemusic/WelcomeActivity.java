@@ -16,10 +16,6 @@ public class WelcomeActivity extends BaseToolbarActivity {
         return false;
     }
 
-    @Override
-    protected void clickTitle(int id) {
-
-    }
 
     @Override
     protected int getLayoutResId() {
@@ -52,16 +48,6 @@ public class WelcomeActivity extends BaseToolbarActivity {
     }
     @Override
     protected String getToolbarTitle() {
-        return null;
-    }
-
-    @Override
-    protected String getToolbarLeftTitle() {
-        return null;
-    }
-
-    @Override
-    protected String getToolbarRightTitle() {
         return null;
     }
 }
