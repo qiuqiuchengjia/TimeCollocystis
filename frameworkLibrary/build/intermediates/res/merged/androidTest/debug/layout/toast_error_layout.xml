@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toast_height"
+    android:layout_marginLeft="@dimen/toast_margin"
+    android:layout_marginRight="@dimen/toast_margin"
+    android:background="@drawable/toast_error_top_background_selected"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/custom_toast_text_des"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/toast_height"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal|center_vertical"
+        android:textColor="@color/while_text_color"
+        android:textSize="@dimen/toast_text_size" />
+
+</RelativeLayout>

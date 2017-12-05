@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:src="@drawable/nav_top"
+        android:id="@+id/iv_head"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerInParent="true"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:maxLines="2"
+        android:id="@+id/tv_title"
+        android:textColor="@color/text_color_black_CC000000"
+        android:textSize="@dimen/global_textview_size_12"
+        android:gravity="center_horizontal"
+        android:text="粤语歌曲里的百年孤独"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/global_margin_35" />
+
+
+</LinearLayout>

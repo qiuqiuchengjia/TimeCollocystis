@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_color_red_D23A2F">#D23A2F</color>
+    <color name="text_color_white_FFFFFF">#ffffff</color>
+    <color name="text_color_white_99FFFFFF">#99ffffff</color>
+    <color name="text_color_gary_636363">#636363</color>
+    <color name="split_line">#EFEFEF</color>
+    <color name="text_color_gary_33000000">#33000000</color>
+    <color name="bg_color_white_FFFFFF">#FFFFFF</color>
+    <color name="bg_color_white_FEFEFE">#FEFEFE</color>
+    <color name="bg_color_white_F2F4F5">#F2F4F5</color>
+    <color name="bg_color_44FFFFFF">#44FFFFFF</color>
+    <color name="text_color_black_CC000000">#CC000000</color>
+    <color name="text_color_black_66000000">#66000000</color>
+    <color name="text_color_black_AA000000">#AA000000</color>
+    <color name="bg_color_white_EFF3F2">#EFF3F2</color>
+</resources>

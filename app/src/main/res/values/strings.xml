@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">时间胶囊</string>
+
+    <string name="navigation_drawer_open">打开 navigation drawer</string>
+    <string name="navigation_drawer_close">关闭 navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="text_find">发现</string>
+    <string name="text_my">我的</string>
+    <string name="text_state">动态</string>
+    <string name="text_night_mode">夜间模式</string>
+    <string name="local_music">本地音乐</string>
+    <string name="text_find_person_groom">个性推荐</string>
+    <string name="text_find_song_list">歌单</string>
+    <string name="text_find_anchor_dj">主播电台</string>
+    <string name="text_find_ranking_list">排行榜</string>
+    <string name="btn_text_find_banner_pop">推广</string>
+    <string name="btn_text_find_banner_visit">独家专访</string>
+    <string name="tv_find_person_private_fm">私人FM</string>
+    <string name="tv_find_person_day_song">每日歌曲推荐</string>
+    <string name="tv_find_person_hot_song">云音乐热歌榜</string>
+    <string name="tv_find_groom_song_list">推荐歌单</string>
+</resources>

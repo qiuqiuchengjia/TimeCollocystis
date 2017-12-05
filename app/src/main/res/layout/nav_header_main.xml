@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+        <LinearLayout
+            android:background="@mipmap/vk"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/nav_header_main_height_ll">
+            <de.hdodenhof.circleimageview.CircleImageView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="@dimen/global_padding_10"
+                android:layout_marginTop="@dimen/global_margin_50"
+                android:src="@mipmap/a4a"
+                android:padding="@dimen/global_padding_3"
+                />
+
+            <LinearLayout
+                android:layout_gravity="bottom"
+                android:gravity="bottom"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_marginBottom="@dimen/global_padding_10"
+                    android:layout_marginLeft="@dimen/global_padding_10"
+                    android:textSize="@dimen/global_textview_size_16"
+                    android:textColor="@color/text_color_white_99FFFFFF"
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/nav_header_vertical_spacing"
+                    android:text="葡萄成熟时"
+                    />
+
+
+                <TextView
+                    android:layout_marginBottom="@dimen/global_padding_10"
+                    android:layout_marginRight="@dimen/global_padding_10"
+                    android:gravity="right"
+                    android:textSize="@dimen/global_textview_size_14"
+                    android:textColor="@color/text_color_white_99FFFFFF"
+                    android:id="@+id/tv_metting"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="@dimen/nav_header_vertical_spacing"
+                    android:text="签到"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+</LinearLayout>

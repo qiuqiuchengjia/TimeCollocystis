@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_bar_opacity">#FFFFFF</color>
+   <!--  <color name="bg_bar_opacity">#4e83a8</color> -->
+    <color name="bg_bar_clarity">#FFFFFF</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="text_down">#FFAAE5B5</color>
+    <color name="clarity">#00000000</color>
+    <color name="text_back">#333</color>
+
+</resources>

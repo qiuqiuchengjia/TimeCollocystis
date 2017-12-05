@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 透明背景 -->
+    <color name="backgroud_transparent_bg">#00000000</color>
+    <color name="backgroud_transparent_80bg">#80000000</color>
+    <color name="backgroud_black_bg">#000000</color>
+    <color name="backgroud_while_bg">#ffffff</color>
+    <color name="backgroud_body_color">#EFEFEF</color>
+    <color name="while_text_color">#FFFFFF</color>
+    <!-- 错误提示背影色 -->
+    <color name="error_toast_bg">#80ef163a</color>
+    <!-- 正确提示背景色 -->
+    <color name="correct_toast_bg">#8059caff</color>
+    <color name="edithnit">#B7B7B7</color>
+    <!-- progressBar颜色 -->
+    <color name="progressbar_red">#fe9289</color>
+    <color name="progressbar_blue">#FF375BF1</color>
+    <color name="progressbar_yellow">#FFF7D23E</color>
+    <color name="progressbar_green">#FF34A350</color>
+    <!-- <color name="pull_refresh_text_color">#ff8181</color> -->
+    <color name="pull_refresh_text_color">#999999</color>
+    <color name="pull_refresh_sub_text_color">#ff8181</color>
+    <color name="wheel_text_color">#666</color>
+    <color name="image_picker_tarb_color">#60000000</color>
+
+
+</resources>

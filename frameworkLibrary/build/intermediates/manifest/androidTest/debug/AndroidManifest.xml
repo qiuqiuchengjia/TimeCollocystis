@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.framework.test" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.framework.test"
+        android:targetPackage="com.framework.test" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+
+        <service
+            android:name="com.framework.ver.DownloadService"
+            android:exported="true"
+            android:persistent="true" />
+    </application>
+
+</manifest>
