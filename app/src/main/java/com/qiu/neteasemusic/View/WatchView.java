@@ -17,6 +17,7 @@ import java.util.Calendar;
 
 /**
  * Created by qiu on 2017-12-6.
+ * http://blog.csdn.net/donmoses/article/details/48728573
  */
 
 public class WatchView extends View {
