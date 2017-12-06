@@ -3,9 +3,10 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <TextView
-        android:text="main"
-        android:layout_width="wrap_content"
+    <com.qiu.neteasemusic.View.WatchView
+        android:layout_gravity="center"
+        android:background="#66D23A2F"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
 </LinearLayout>
