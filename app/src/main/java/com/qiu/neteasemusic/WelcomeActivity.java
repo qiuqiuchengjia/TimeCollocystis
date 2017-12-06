@@ -39,7 +39,7 @@ public class WelcomeActivity extends BaseToolbarActivity {
         }, 3000);
     }
     private void callback() {
-        onIntent(MainActivity.class);
+        onIntent(MainNoToolbarActivity.class);
     }
     private void onIntent(Class<? extends Activity> cla) {
         Intent intent = new Intent(this, cla);

@@ -1,14 +1,15 @@
 package com.qiu.neteasemusic;
 
 import android.content.Context;
+import android.graphics.Color;
+import android.os.Bundle;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.view.GravityCompat;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
@@ -17,28 +18,31 @@ import android.widget.TabHost;
 import android.widget.TextView;
 
 import com.framework.greendroid.widget.MyFragmentTabHost;
-import com.qiu.neteasemusic.Base.BaseToolbarActivity;
-import com.qiu.neteasemusic.Interface.ToolbarTitleInteface;
-import com.qiu.neteasemusic.Utils.ToastUtil;
 import com.qiu.neteasemusic.fragment.FindFragment;
 import com.qiu.neteasemusic.fragment.MyMainFragment;
 import com.qiu.neteasemusic.fragment.StateFragment;
+import com.readystatesoftware.systembartint.SystemBarTintManager;
 
-public class MainActivity extends BaseToolbarActivity
+/**
+ * Created by qiu on 2017-12-6.
+ */
+
+public class MainNoToolbarActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener,
         TabHost.OnTabChangeListener{
-
     private MyFragmentTabHost mTabHost = null;
     private LinearLayout mLinearLayout_richeng;
     private LinearLayout mLinearLayout_create;
     private LinearLayout mLinearLayout_work;
     private int curFragmentFlag;
     @Override
-    protected int getLayoutResId() {
-        return R.layout.activity_main;
-    }
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_qiu);
+        initStauteBar();
+        initView();
 
-    @Override
+    }
     protected void initView() {
         mLinearLayout_richeng = (LinearLayout) findViewById(R.id.ll_richeng);
         mLinearLayout_create = (LinearLayout) findViewById(R.id.ll_create);
@@ -50,15 +54,6 @@ public class MainActivity extends BaseToolbarActivity
                     public void onChanaged(Fragment fragments) {
                     }
                 });
-        setToolbarHide(false);
-        setStatusBarHide(false);
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-                this, drawer, getToolbar(), R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.setDrawerListener(toggle);
-        toggle.syncState();
-        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-        navigationView.setNavigationItemSelectedListener(this);
 
 
         addCustomTab(this, "首页", "MyMainFragment", 0,
@@ -71,7 +66,22 @@ public class MainActivity extends BaseToolbarActivity
         curFragmentFlag=0;
         initTabClick();
     }
+    private void initStauteBar() {
+        SystemBarTintManager tintManager = new SystemBarTintManager(this);
+        tintManager.setStatusBarTintEnabled(true);
+        tintManager.setNavigationBarTintEnabled(true);
+        tintManager.setTintColor(Color.RED);
+        tintManager.setStatusBarTintColor(Color.RED);
+    }
+    private double getStatusBarHeight(Context context){
+        double statusBarHeight = Math.ceil(25 * context.getResources().getDisplayMetrics().density);
+        return statusBarHeight;
+    }
 
+    @Override
+    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+        return false;
+    }
     private void initTabClick() {
         mLinearLayout_richeng.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -94,85 +104,6 @@ public class MainActivity extends BaseToolbarActivity
                 curFragmentFlag=1;
             }
         });
-    }
-
-    @Override
-    protected void initData() {
-    }
-
-    @Override
-    protected String getToolbarTitle() {
-        //mTabHost.getCurFragment();
-        return "ds";
-    }
-
-    @Override
-    public void onBackPressed() {
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        if (drawer.isDrawerOpen(GravityCompat.START)) {
-            drawer.closeDrawer(GravityCompat.START);
-        } else {
-            super.onBackPressed();
-        }
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_seach) {
-            ToastUtil.showToast(MainActivity.this,"点击搜索");
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
-
-    @SuppressWarnings("StatementWithEmptyBody")
-    @Override
-    public boolean onNavigationItemSelected(MenuItem item) {
-        // Handle navigation view item clicks here.
-        int id =item.getItemId();
-
-        if (id == R.id.item_msg) {
-           ToastUtil.showToast(MainActivity.this,"我的消息");
-        } else if (id == R.id.item_store) {
-            ToastUtil.showToast(MainActivity.this,"积分商城");
-        } else if (id == R.id.item_member) {
-            ToastUtil.showToast(MainActivity.this,"付费音乐包");
-        }else if (id == R.id.item_free) {
-            ToastUtil.showToast(MainActivity.this,"在线听歌免流量");
-        }else if (id == R.id.item_identify) {
-            ToastUtil.showToast(MainActivity.this,"听歌识曲");
-        }else if (id == R.id.item_skin) {
-            ToastUtil.showToast(MainActivity.this,"主题换肤");
-        }else if (id == R.id.item_night) {
-            ToastUtil.showToast(MainActivity.this,"夜间模式");
-        }else if (id == R.id.item_time) {
-            ToastUtil.showToast(MainActivity.this,"定时停止播放");
-        }else if (id == R.id.item_clock) {
-            ToastUtil.showToast(MainActivity.this,"音乐闹钟");
-        }else if (id == R.id.item_cloud) {
-            ToastUtil.showToast(MainActivity.this,"我的音乐云盘");
-        }
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
-        return true;
-    }
-    @Override
-    protected boolean isDisplayHomeAsUpEnabled() {
-        return false;
     }
 
     /**
@@ -216,7 +147,6 @@ public class MainActivity extends BaseToolbarActivity
 
     @Override
     public void onTabChanged(String tabId) {
-        ToolbarTitleInteface toolbarTitleInteface = (ToolbarTitleInteface) mTabHost.getCurFragment();
-        setToolbarTitle(toolbarTitleInteface.getToolbarTitle());
+
     }
 }
