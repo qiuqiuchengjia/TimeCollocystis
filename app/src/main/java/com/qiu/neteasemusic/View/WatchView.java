@@ -1,8 +1,6 @@
 package com.qiu.neteasemusic.View;
 
 import android.content.Context;
-import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
@@ -10,11 +8,10 @@ import android.graphics.Path;
 import android.graphics.PointF;
 import android.util.AttributeSet;
 import android.view.View;
+import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.LinearInterpolator;
 import android.view.animation.Transformation;
-
-import com.qiu.neteasemusic.R;
 
 import java.util.Calendar;
 
@@ -45,7 +42,7 @@ public class WatchView extends View {
     private int dateOfMonth;
     private int dateOfWeek;
     //背景图
-    private Bitmap src;
+   // private Bitmap src;
 
     public WatchView(Context context) {
         super(context);
@@ -60,14 +57,16 @@ public class WatchView extends View {
     @Override
     protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec);
-        int width = getDimension(DEFAULT_WIDTH, widthMeasureSpec);
-        int height = getDimension(DEFAULT_HEIGHT, heightMeasureSpec);
-        height = 800;
-        viewW = width;
-        cenP.x = viewW / 2;
-        cenP.y = height / 2;
-        radius = Math.min(viewW, height) / 2;
-        setMeasuredDimension(width, height);
+        WindowManager wm = (WindowManager) getContext()
+                .getSystemService(Context.WINDOW_SERVICE);
+        int width = wm.getDefaultDisplay().getWidth();
+        int mWidth = width;
+        width -= 200;
+        viewW = width + 200;
+        cenP.x = width / 2 + 100;
+        cenP.y = width / 2;
+        radius = width / 2;
+        setMeasuredDimension(mWidth,width);
     }
 
     private int getDimension(int defaultSize, int measureSpec) {
@@ -85,7 +84,7 @@ public class WatchView extends View {
     }
 
     private void init() {
-        src = BitmapFactory.decodeResource(getResources(), R.mipmap.nav_top);
+      //  src = BitmapFactory.decodeResource(getResources(), R.mipmap.nav_top);
         //获取系统时间
         getTime();
         //初始化绘画相关
@@ -137,20 +136,20 @@ public class WatchView extends View {
         path.reset();
         path.addCircle(cenP.x, cenP.y, radius, Path.Direction.CW);
         canvas.clipPath(path);
-        canvas.drawBitmap(src, 0, 0, mPaint);
+        //canvas.drawBitmap(src, 0, 0, mPaint);背景图
         path.close();
 
         //表盘边框
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setStrokeWidth(6.18f * 2);
-        mPaint.setColor(Color.BLACK);
+        mPaint.setColor(Color.RED);
         canvas.drawCircle(cenP.x, cenP.y, radius, mPaint);
 
         //日期
-        mPaint.setColor(Color.RED);
-        mPaint.setStrokeWidth(0);
-        mPaint.setTextSize(44);
-        canvas.drawText(String.valueOf(dateOfMonth), cenP.x + radius / 4, cenP.y + 22, mPaint);
+      //  mPaint.setColor(Color.RED);
+       // mPaint.setStrokeWidth(0);
+      //  mPaint.setTextSize(44);
+       // canvas.drawText(String.valueOf(dateOfMonth), cenP.x + radius / 4, cenP.y + 22, mPaint);
         //星期
         mPaint.setTextSize(44);
         String weekDay = null;
