@@ -3,10 +3,18 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <com.qiu.neteasemusic.View.WatchView
-        android:layout_gravity="center"
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
         android:background="#66D23A2F"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <com.qiu.neteasemusic.View.WatchView
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
 
 </LinearLayout>
